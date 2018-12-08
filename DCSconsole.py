@@ -8,6 +8,7 @@ try:
     import subprocess
     import argparse
     from cipherAlgorithms import *
+    from tkinter import messagebox
 
     pool = {'ceaser':ceaserCipher,'hill':hillCipher,'railfence':railfenceCipher,'morse':morseCode,'vignere':vignereCipher,'autokey':vignereCipherAutokey,'vernam':vernamCipher,'rowtrans':rowTranspositionCipher,'coltrans':columnarTranspositionCipher,'base64':base64D,'txt2asc':txtToOrd,'asc2txt':ordToTxt,'hex2txt':hexToTxt,'txt2hex':txtToHex,'bin2asc':binToOrd,'asc2bin':ordToBin,'bin2txt':binToTxt,'txt2bin':txtToBin,'bin2hex':binToHex,'hex2bin':hexToBin,'hex2asc':hexToOrd,'asc2hex':ordToHex}
 
@@ -105,25 +106,25 @@ try:
 
 except (ValueError,TypeError):
     try:
-        messagebox.showinfo("Value Error","Please provide correct values. If not resolved mailto: mohit.balu@outlook.com")
+        messagebox.showinfo("Value Error","Please provide correct values.")
     except:
-        print("Please provide Correct values in the fields. If not resolved mailto: mohit.balu@outlook.com")
+        print("Please provide Correct values in the fields.")
 
 except (IOError,EOFError):
     try:
-        messagebox.showinfo("Input Output/File Error","Please check file name and permissions. If not resolved mailto: mohit.balu@outlook.com")
+        messagebox.showinfo("Input Output/File Error","Please check file name and permissions.")
     except:
-        print("Please check file names and permissions. If not resolved mailto: mohit.balu@outlook.com")
+        print("Please check file names and permissions.")
 
 except (ImportError):
     try:
-        messagebox.showinfo("Import Error","Cannot import package/s. Make sure you are using correct version (python3.x), If not resolved mailto: mohit.balu@outlook.com")
+        messagebox.showinfo("Import Error","Cannot import package/s. Make sure you are using correct version (python3.x)")
     except:
-        print("Cannot import package/s. Make sure you are using correct version (python3.x). If not resolved mailto: mohit.balu@outlook.com")
+        print("Cannot import package/s. Make sure you are using correct version (python3.x).")
 
 except:
-    messagebox.showwarning("Error!","An unexpected error has occured. Contact the developer at mohit.balu@outlook.com")
     try:
+        messagebox.showwarning("Error!","An unexpected error has occured.")
         drimager.destroy()
     except:
         pass
