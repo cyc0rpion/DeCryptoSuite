@@ -60,4 +60,5 @@ There is an option of using DeCryptoSuite as command line tool, however it consi
   ```
   
 _If found any bug, you can report it to the developer._
+
 Contributors: Mohit Balu @mohitbalu
