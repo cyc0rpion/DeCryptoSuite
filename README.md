@@ -1,7 +1,7 @@
-![DeCryptoSuite](images/logo.png) <h2>DecryptoSuite</h2>
+![DeCryptoSuite](images/dclogo.png) <h2>DecryptoSuite</h2>
 </h3>A tool for crytpography and cryptanalysis</h3>
 
-![DecryptoPreview](images/preview.png)
+![DecryptoPreview](images/DecryptoPreview.png)
 
 [Download](https://github.com/mohitbalu/DeCryptoSuite/archive/master.zip)
 
