@@ -15,7 +15,7 @@ It is developed in python3.6 and requires no external library installation.
 
 >How to Install
 
-You can install it through gitclone or Downloading it.
+You can install it through gitclone or Download it.
 There is no need to install and configure DeCryptoSuite.
 
   1. Move to DecryptoSuite Directory: #cd DeCryptoSuite/
