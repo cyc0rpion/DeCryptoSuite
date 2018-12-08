@@ -3,7 +3,7 @@
 DeCryptoSuite is a python based application for performing cryptographic operations.
 It is developed in python3.6 and requires no external library installation.
 
-*These basic functions of decryptosuite are*
+>These basic functions of decryptosuite are
   1. Decoding
   1. Decryption
   1. Hashing
