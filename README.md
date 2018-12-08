@@ -9,15 +9,15 @@ _It is developed in python3.6 and requires no external library installation. You
 
 **Features**
 ```
-* Open Source
-* Light Weight
-* Requires no external library installation
-* simple and Interactive GUI
-* Most of the cryptographic functions at one place
-* Platform Independent
+  * Open Source
+  * Light Weight
+  * Requires no external library installation
+  * simple and Interactive GUI
+  * Most of the cryptographic functions at one place
+  * Platform Independent
 ```
 
-<h5>These basic functions of decryptosuite are:</h5>
+<h5>Three basic functions of decryptosuite are:</h5>
 
 1. Decoding
 
@@ -35,8 +35,9 @@ _It is developed in python3.6 and requires no external library installation. You
 
 <h5>How to Install:</h5>
 
-_You can install it through gitclone or Download it._
-_There is no need to install and configure DeCryptoSuite._
+_You can install it through gitclone or download it._
+_You don't need to install aor configure DeCryptoSuite._
+_Just download it and start using._
 
   1. Move to DecryptoSuite Directory.
   1. Launch DCSGraphical.py.
@@ -56,4 +57,6 @@ There is an option of using DeCryptoSuite as command line tool, however it consi
   cd DecrytpoSuite/
   python3 DCSConsole.py -h
   ```
-_This tool is developed by @mohitbalu, If found any bug you can report it to him._
+  
+_If found any bug, you can report it to the developer._
+Contributors: Mohit Balu @mohitbalu
