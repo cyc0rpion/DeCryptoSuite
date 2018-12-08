@@ -429,25 +429,18 @@ try:
 
 except (ValueError,TypeError):
     try:
-        messagebox.showinfo("Value Error","Please provide correct values. If not resolved mailto: mohit.balu@outlook.com")
+        messagebox.showinfo("Value Error","Please provide correct values.")
     except:
-        print("Please provide Correct values in the fields. If not resolved mailto: mohit.balu@outlook.com")
+        print("Please provide Correct values in the fields.")
 
 except (IOError,EOFError):
     try:
-        messagebox.showinfo("Input Output/File Error","Please check file name and permissions. If not resolved mailto: mohit.balu@outlook.com")
+        messagebox.showinfo("Input Output/File Error","Please check file name and permissions.")
     except:
-        print("Please check file names and permissions. If not resolved mailto: mohit.balu@outlook.com")
+        print("Please check file names and permissions.")
 
 except (ImportError):
     try:
-        messagebox.showinfo("Import Error","Cannot import package/s. Make sure you are using correct version (python3.x), If not resolved mailto: mohit.balu@outlook.com")
+        messagebox.showinfo("Import Error","Cannot import package/s. Make sure you are using correct version (python3.x).")
     except:
-        print("Cannot import package/s. Make sure you are using correct version (python3.x). If not resolved mailto: mohit.balu@outlook.com")
-
-#except:
-#    messagebox.showwarning("Error!","An unexpected error has occured. Contact the developer at mohit.balu@outlook.com")
-#    try:
-#        drimager.destroy()
-#    except:
-#        pass
+        print("Cannot import package/s. Make sure you are using correct version (python3.x).")
