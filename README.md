@@ -4,9 +4,7 @@
 It is developed in python3.6 and requires no external library installation.
 
 <h5>These basic functions of decryptosuite are:</h5>
-  * Decoding
-  * Decryption
-  * Hashing
+  * Decoding\nDecryption/nHashing
   
 <h5>Advanced functions includes:</h5>
   1. Frequency Analysis
