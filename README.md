@@ -1,7 +1,9 @@
 <h2>DecryptoSuite : A tool for crytpography and cryptanalysis</h2>
 
+![DeCryptoSuite](images/logo.png)
+
 <h4>DeCryptoSuite is a python based application for performing cryptographic operations.</h4>
-It is developed in python3.6 and requires no external library installation.
+_It is developed in python3.6 and requires no external library installation. You can use DecryptoSuite for solving CTF challenges including cryptography and hashing.
 
 <h5>These basic functions of decryptosuite are:</h5>
 
@@ -30,7 +32,7 @@ _There is no need to install and configure DeCryptoSuite._
   
   ```
   cd DecrytpoSuite/
-  python3 DCSGrahical.py
+  python3 DCSGraphical.py
   ```
 
 There is an option of using DeCryptoSuite as command line tool, however it consists of only basic functionalities.
