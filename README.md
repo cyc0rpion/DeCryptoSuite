@@ -1,22 +1,22 @@
-**DecryptoSuite : A tool for crytpography and cryptanalysis**
+<h2>**DecryptoSuite : A tool for crytpography and cryptanalysis**</h2>
 
-_DeCryptoSuite is a python based application for performing cryptographic operations._
+<h4>DeCryptoSuite is a python based application for performing cryptographic operations.</h4>
 _It is developed in python3.6 and requires no external library installation._
 
-<h1>These basic functions of decryptosuite are</h1>
+<h5>These basic functions of decryptosuite are</h5>
   1. Decoding
   1. Decryption
   1. Hashing
 
->Advanced functions includes:
+<h5>Advanced functions includes:</h5>
   1. Frequency Analysis
   1. Dictionary Attack
   1. Hash Cracker
 
->How to Install
+<h5>How to Install:</h5>
 
-You can install it through gitclone or Download it.
-There is no need to install and configure DeCryptoSuite.
+_You can install it through gitclone or Download it._
+_There is no need to install and configure DeCryptoSuite._
 
   1. Move to DecryptoSuite Directory: #cd DeCryptoSuite/
   1. Launch DCSGraphical.py : #python3 DCSGraphical.py
