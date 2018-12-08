@@ -2,10 +2,20 @@
 </h3>A tool for crytpography and cryptanalysis</h3>
 ![DecryptoPreview](images/preview.png)
 
-[Download](http://github.com/mohitbalu/DecryptoSuite/)
+[Download](https://github.com/mohitbalu/DeCryptoSuite/archive/master.zip)
 
 <h4>DeCryptoSuite is a python based application for performing cryptographic operations.</h4>
 _It is developed in python3.6 and requires no external library installation. You can use DecryptoSuite for solving CTF challenges including cryptography and hashing.
+
+**Features**
+```
+* Open Source
+* Light Weight
+* Requires no external library installation
+* simple and Interactive GUI
+* Most of the cryptographic functions at one place
+* Platform Independent
+```
 
 <h5>These basic functions of decryptosuite are:</h5>
 
