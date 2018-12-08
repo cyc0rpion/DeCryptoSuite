@@ -1,9 +1,9 @@
 **DecryptoSuite : A tool for crytpography and cryptanalysis**
 
-DeCryptoSuite is a python based application for performing cryptographic operations.
-It is developed in python3.6 and requires no external library installation.
+_DeCryptoSuite is a python based application for performing cryptographic operations._
+_It is developed in python3.6 and requires no external library installation._
 
->These basic functions of decryptosuite are
+<h1>These basic functions of decryptosuite are</h1>
   1. Decoding
   1. Decryption
   1. Hashing
